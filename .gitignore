@@ -20,3 +20,4 @@ epub-build/
 *.epub
 outputs/
 *.pdf
+!assets/*
