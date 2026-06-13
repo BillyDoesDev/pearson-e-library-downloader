@@ -1,0 +1,15 @@
+[project]
+name = "pearson-elibrary"
+version = "0.1.0"
+description = "Download books from your Pearson E-Library"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "brotli>=1.2.0",
+    "lxml>=6.1.1",
+    "playwright>=1.60.0",
+    "pypdf>=6.13.2",
+    "python-dotenv>=1.2.2",
+    "requests>=2.34.2",
+]

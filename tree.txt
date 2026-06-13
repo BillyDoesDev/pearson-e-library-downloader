@@ -1,0 +1,24 @@
+<download-dir>/OPS
+├── css
+│   ├── Pg001.css
+│   ├── Pg002.css
+    ...
+│   └── Pg721.css
+├── fonts
+│   ├── AdobeSongStd-Light_1ij.otf
+│   ├── Arial-BoldMT_kq3.otf
+    ...
+│   └── ZapfDingbatsStd_jjk.otf
+├── images
+│   ├── Pg_001.png
+│   ├── Pg_002.png
+    ...
+│   └── Pg_721.png
+├── Pg001.xhtml
+├── Pg002.xhtml
+    ...
+├── Pg721.xhtml
+├── content.opf
+└── Toc.xhtml
+
+4 directories, 2296 files
