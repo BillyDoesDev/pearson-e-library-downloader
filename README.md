@@ -18,6 +18,10 @@ options:
   --no-fonts, -F        Do not download fonts
   ```
 
+## Who can use this
+
+Generally for people who have access to books in their eLibrary. This could be if say, you have bought a Pearson book, and added it to your Pearson eLibrary by using the scratch code on the front cover of the book.
+
 ## How to use
 
 - Clone this repository and `cd` into it.
@@ -69,7 +73,7 @@ Alternatively, you could use online epub readers such as these, which render the
 - https://epub-reader.online/
 - https://epubreader.net/ (GitHub: https://github.com/satorumurmur/bibi)
 
-**Another approach** thus, is to use a headless browser using something like `playwright`, have it render each page individually, print to pdf, and them merge them all together. Clearly, this is not optimal at all, and my fans hate it. But, it mostly works (aside form the ocassional text flying around here and there in the render), and the script `renderer.py` in this project does exactly that.
+**Another approach** thus, is to use a headless browser using something like `playwright`, have it render each page individually, print to pdf, and them merge them all together. Clearly, this is not optimal at all, and my CPU fans hate it. But, it mostly works, and the script `renderer.py` in this project does exactly that (aside form the ocassional text flying around here and there in the render).
 
 That's all from my end. I hope you find this useful. I am a strong advocate for open information, and find it particularly annoying not being able to own content I have purchased.</br>
 That being said, please use this tool only for content which you own, and certainly not for illegal purposes (wink wink). Have fun! 
